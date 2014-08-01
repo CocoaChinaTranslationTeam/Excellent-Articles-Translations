@@ -1,4 +1,5 @@
-本文翻译自Swift官方博客，原文地址：[Interacting with C Pointers](https://developer.apple.com/swift/blog/?id=6)
+-  本文翻译自Swift官方博客，原文地址：[Interacting with C Pointers](https://developer.apple.com/swift/blog/?id=6)
+-  译者：[JaceFu](http://www.devtalking.com/)
 
 # 在Swift中使用C语言的指针
 Objective-C和C语言经常需要使用到指针。Swift中的数据类型由于良好的设计，使其可以和基于指针的C语言API无缝混用。同时Swift也可以自动处理大多数将指针作为参数的情况。在这篇文章里，我们可以看到在Swift语言中如何将变量、数组、字符串当做C语言中的指针参数来使用。
