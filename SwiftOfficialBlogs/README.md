@@ -2,4 +2,4 @@
 ================================
 
 -  [官网博客地址](https://developer.apple.com/swift/blog/)
--  译文的文件名称格式：`日期(文章名).md`，如`2014-7-28(Interacting with C Pointers).md`
+-  译文的文件名称格式：`日期(文章名).md`，如`2014-07-28(Interacting with C Pointers).md`，1月～9月以及1号～9号这样的个位数月份和日期，注意前面要加`0`，这样文件会按照日期自动排序，方便查看。
